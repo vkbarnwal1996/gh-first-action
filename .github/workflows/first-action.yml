@@ -9,4 +9,3 @@ jobs:
       - name: Print goodbye
         run: |
           echo "Job finished"
-          echo "Done - Bye!"
